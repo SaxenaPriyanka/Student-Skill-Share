@@ -1,4 +1,4 @@
-# Student-Skill-Share
+# Student Skill Share
 
 ## **PROJECT OUTLINE**
 ‘Student Skill Share’ is a web application that connects students with classmates to elevate their learning.
